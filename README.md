@@ -1,19 +1,19 @@
 # Covid - 19 Tracker
 
-This project is create with React.js
+Prpjek ini menggunakan React.js
 
-## Available Scripts
+## Cara menjalankan script
 
-In the project directory, you can run:
+Pada folder projek, tuliskan kode seperti dibawah ini :
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Aplikasi berjalan di mode development pada link :
+[http://localhost:3000](http://localhost:3000) akan terbuka pada browser.
 
-or, you can visit this link below for the demo :
+Atau, jika ingin menlihat demo aplikasinya bisa kunjungi link dibawah ini :
 https://covid-19-tracker-6b428.web.app/
 
-#Thank you for your visit!
+Terima kasih!
 
 
