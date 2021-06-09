@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Covid - 19 Tracker
 
 This project is create with React.js
 
